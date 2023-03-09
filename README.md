@@ -4,7 +4,9 @@
 
 <p><b><h3>INSTALLATION / УСТАНОВКА</h3></b></p>
 Before installing, make sure you have sudo and wget installed.<br>
-Перед установкой убедитесь что у вас установлен  sudo и wget.
+(This only applies to users of the Debian netinstall version without the Standard System Utilities installation.) <br><br>
+Перед установкой убедитесь что у вас установлен  sudo и wget.<br>
+(Это касается только пользователей Debian netinstall версии без установки Standard System Utilities.)
 <hr>
 <h4>$ apt install sudo wget</h4>
 <hr>
