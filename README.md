@@ -8,7 +8,8 @@ Before installing, make sure you have sudo and wget installed.<br>
 Перед установкой убедитесь что у вас установлен  sudo и wget.<br>
 (Это касается только пользователей Debian netinstall версии без установки Standard System Utilities.)
 <hr>
-<h4>$ apt install sudo wget</h4>
+<h4>$ apt install sudo</h4>
+<h4>$ sudo apt install wget</h4>
 <hr>
 
 Download the script from GitHub.<br>
