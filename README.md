@@ -24,6 +24,6 @@ Adds the right to execute a script.<br>
 Run the script in the current directory.<br>
 Запускаем скрипт в текущей директории.
 <hr>
-<h4>$ chmod +x install_Python-v3.11.2.sh</h4>
+<h4>$ ./install_Python-v3.11.2.sh</h4>
 <hr>
 
