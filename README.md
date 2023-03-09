@@ -1,4 +1,4 @@
-# Script to install Python 3.11.2 version on Linux OS Debian 10 / 11
+# Script to install Python 3.11.2 version on Linux Debian 10 / 11
 <h2>Скрипт по установкий Python 3.11.2 на Linux OS Debian 11</h2><br>
 
 
