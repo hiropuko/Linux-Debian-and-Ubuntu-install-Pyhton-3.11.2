@@ -12,18 +12,18 @@ Before installing, make sure you have sudo and wget installed.<br>
 Download the script from GitHub.<br>
 Скачиваем скрипт с GitHub.
 <hr>
-<h4>$ wget https://raw.githubusercontent.com/repackScript/Linux-Debian-11-install-Pyhton-3.11.2/main/install_Python-v3.11.2.sh</h4>
+<h4>$ sudo wget https://raw.githubusercontent.com/repackScript/Linux-Debian-11-install-Pyhton-3.11.2/main/install_Python-v3.11.2.sh</h4>
 <hr>
 
 Adds the right to execute a script.<br>
 Добавляет право на выполнение скрипта.
 <hr>
-<h4>$ chmod +x install_Python-v3.11.2.sh</h4>
+<h4>$ sudo chmod +x install_Python-v3.11.2.sh</h4>
 <hr>
 
 Run the script in the current directory.<br>
 Запускаем скрипт в текущей директории.
 <hr>
-<h4>$ ./install_Python-v3.11.2.sh</h4>
+<h4>$ sudo ./install_Python-v3.11.2.sh</h4>
 <hr>
 
