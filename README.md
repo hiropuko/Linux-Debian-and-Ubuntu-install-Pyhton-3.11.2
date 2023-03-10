@@ -18,7 +18,7 @@ Download the script from GitHub.<br>
 <h4>$ sudo wget https://raw.githubusercontent.com/repackScript/Linux-Debian-11-install-Pyhton-3.11.2/main/install_Python-v3.11.2.sh</h4>
 <hr>
 
-Adds the right to execute a script.<br>
+Add the right to execute the script.<br>
 Добавляем право на выполнение скрипта.
 <hr>
 <h4>$ sudo chmod +x install_Python-v3.11.2.sh</h4>
