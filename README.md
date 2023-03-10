@@ -19,7 +19,7 @@ Download the script from GitHub.<br>
 <hr>
 
 Adds the right to execute a script.<br>
-Добавляет право на выполнение скрипта.
+Добавляем право на выполнение скрипта.
 <hr>
 <h4>$ sudo chmod +x install_Python-v3.11.2.sh</h4>
 <hr>
